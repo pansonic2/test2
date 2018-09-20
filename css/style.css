@@ -1,0 +1,143 @@
+ .wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+   grid-auto-rows:max-content;
+   grid-auto-columns: auto;
+   font-size: 2em;
+  
+  
+   
+}
+.wrapper > div {
+   #border-bottom: 1px solid;
+  
+  padding: 1em;
+
+  font-family: 'Helvetica', monospace;
+  text-align: center;
+  
+  
+}
+h1 {
+  font-family: 'Helvetica', monospace;
+  font-size: 2em;
+}
+
+.printerPic {
+  background-image: url('IMG_8486_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+    
+   }
+
+.printerPic:hover,
+.margaritaPic:hover {
+  
+  #background-size: cover;
+}
+
+
+.margaritaPic {
+  background-image: url('IMG_8482_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.keurigPic {
+  background-image: url('IMG_8517_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+
+.nespressoPic {
+  background-image: url('IMG_8518_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+
+.toasterPic {
+  background-image: url('IMG_8495_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.foodProcessorPic {
+  background-image: url('81bQvF2J2yL._SL1500_.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.samsungPic {
+  background-image: url('71DZgSRihaL._SL1500_.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.wafflePic {
+  background-image: url('81IrZsP1aqS._SL1500_.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.shredderPic {
+  background-image: url('IMG_8504_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.winePic {
+  background-image: url('IMG_8499_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.steamerPic {
+  background-image: url('IMG_8513_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.garminPic {
+  background-image: url('81V6ZYbpkiL._SL1500_.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.footSpaPic {
+  background-image: url('IMG_8521_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+a {
+ text-align: center;
+}
+
